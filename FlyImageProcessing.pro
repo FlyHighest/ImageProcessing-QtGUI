@@ -26,14 +26,21 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
         main.cpp \
         mainwindow.cpp \
-    imagewindow.cpp
+    imagewindow.cpp \
+    scalesizedialog.cpp \
+    fourier.cpp
 
 HEADERS += \
         mainwindow.h \
-    imagewindow.h
+    imagewindow.h \
+    scalesizedialog.h \
+    fourier.h
 
 FORMS += \
-        mainwindow.ui
+        mainwindow.ui \
+    scalesizedialog.ui
 
 RESOURCES += \
     resources.qrc
+
+

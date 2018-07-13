@@ -2,5 +2,9 @@
     <qresource prefix="/icons">
         <file>icons/openfile.png</file>
         <file>icons/showimage.png</file>
+        <file>icons/pen.png</file>
+        <file>icons/pengrey.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/save.png</file>
     </qresource>
 </RCC>
